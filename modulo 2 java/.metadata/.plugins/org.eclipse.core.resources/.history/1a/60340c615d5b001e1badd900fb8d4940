@@ -4,11 +4,9 @@ public class TestAuto {
 
 	public static void main(String[] args) {
 		Auto auto1;
-		auto1 = new Auto("Mercedes Benz",2023,135000.99);
+		auto1 = new Auto();
 		Auto auto2;
-		auto2 = new Auto("Suzuky",2022,30000.00);
-		Auto auto3;
-		auto3 = new Auto("KIA",2020,39000);
+		auto2 = new Auto();
 		
 		auto1.setMarca("Mercedes Benz");
 		auto1.setAnio(2023);
@@ -26,10 +24,6 @@ public class TestAuto {
 		System.out.println("marca:" + auto2.getMarca());
 		System.out.println("anio:" + auto2.getAnio());
 		System.out.println("precio:" + auto2.getPrecio());
-		System.out.println("AUTO 3");
-		System.out.println("marca:" + auto3.getMarca());
-		System.out.println("anio:" + auto3.getAnio());
-		System.out.println("precio:" + auto3.getPrecio());
 	}
 
 }
