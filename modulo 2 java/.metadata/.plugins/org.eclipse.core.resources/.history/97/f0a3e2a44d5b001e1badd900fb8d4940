@@ -8,7 +8,6 @@ public class TestCalculadora {
 		int resultadoResta;
 		double resultadoMultiplicacion;
 		double resultadoDivision;
-		double resultadoPromedio;
 		calcu=new Calculadora ();
 		
 		resultadoSuma=calcu.sumar(5, 3);
@@ -22,12 +21,6 @@ public class TestCalculadora {
 		
 		resultadoDivision=calcu.dividir(10, 2);
 		System.out.println("resultadoDivision:"+resultadoDivision);
-		
-		resultadoPromedio=calcu.promediar(10,8,9);
-		System.out.println("resultadoPromedio:"+resultadoPromedio);
-		
-		calcu.mostrarResultado();
-		
 
 	}
 

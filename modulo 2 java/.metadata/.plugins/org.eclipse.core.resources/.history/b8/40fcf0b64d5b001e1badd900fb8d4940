@@ -23,11 +23,8 @@ public class TestCalculadora {
 		resultadoDivision=calcu.dividir(10, 2);
 		System.out.println("resultadoDivision:"+resultadoDivision);
 		
-		resultadoPromedio=calcu.promediar(10,8,9);
-		System.out.println("resultadoPromedio:"+resultadoPromedio);
-		
-		calcu.mostrarResultado();
-		
+		resultadoPromedio=calcu.dividir(10, 2);
+		System.out.println("resultadoDivision:"+resultadoDivision);
 
 	}
 
