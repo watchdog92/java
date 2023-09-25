@@ -1,4 +1,3 @@
 INDEX VERSION 1.134+C:\Users\crist\OneDrive\Documentos\Programacion_CristianPareja_krakedev\java\modulo 2 java\.metadata\.plugins\org.eclipse.jdt.core
-2937078286.index
 3413270776.index
 1865797976.index

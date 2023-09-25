@@ -1,0 +1,47 @@
+package com.krakedev;
+
+public class TestProducto {
+
+	public static void main(String[] args) {
+		Producto productoA;
+		productoA = new Producto();
+		Producto productoB;
+		productoB = new Producto();
+		Producto productoC;
+		productoC = new Producto();
+		
+		productoA.setNombre("Paracetamol");
+		productoA.setDescripcion("Dolor general");
+		productoA.setStockActual(10);
+		productoA.setPrecio(3.80);
+		productoB.setNombre("Ibuprofeno");
+		productoB.setDescripcion("Dolor de cabeza");
+		productoB.setStockActual(20);
+		productoB.setPrecio(5.00);
+		productoC.setNombre("Mebocaina");
+		productoC.setDescripcion("Dolor de garganta");
+		productoC.setStockActual(100);
+		productoC.setPrecio(6.37);
+		
+		System.out.println("--------------");
+		// 5. Acceder a los atributos
+		System.out.println("PRODUCTO A");
+		System.out.println("nombre:" + productoA.nombre);
+		System.out.println("descripcion:" + productoA.descripcion);
+		System.out.println("StockActual:" + productoA.StockActual);
+		System.out.println("precio:" + productoA.precio);
+		System.out.println("PRODUCTO B");
+		System.out.println("nombre:" + productoB.nombre);
+		System.out.println("descripcion:" + productoB.descripcion);
+		System.out.println("StockActual:" + productoB.StockActual);
+		System.out.println("precio:" + productoB.precio);
+		System.out.println("PRODUCTO C");
+		System.out.println("nombre:" + productoC.nombre);
+		System.out.println("descripcion:" + productoC.descripcion);
+		System.out.println("StockActual:" + productoC.StockActual);
+		System.out.println("precio:" + productoC.precio);
+	
+
+	}
+
+}

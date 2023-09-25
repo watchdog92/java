@@ -14,9 +14,9 @@ public class TestCuadrado {
 		double perimetroC2;
 		double perimetroC3;
 		
-		c1.lado=3;
-		c2.lado=4;
-		c3.lado=5.5;
+		c1.setLado(3);
+		c2.setLado(4);
+		c3.setLado(5.5);
 		
 		areaC1=c1.calcularArea();
 		System.out.println("area del cuadrado c1 es:"+areaC1);
