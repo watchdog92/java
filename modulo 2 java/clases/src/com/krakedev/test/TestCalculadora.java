@@ -1,4 +1,6 @@
-package com.krakedev;
+package com.krakedev.test;
+
+import com.krakedev.Calculadora;
 
 public class TestCalculadora {
 
@@ -9,7 +11,7 @@ public class TestCalculadora {
 		double resultadoMultiplicacion;
 		double resultadoDivision;
 		double resultadoPromedio;
-		calcu=new Calculadora ();
+		calcu=new Calculadora ();	
 		
 		resultadoSuma=calcu.sumar(5, 3);
 		System.out.println("resultado:"+resultadoSuma);
