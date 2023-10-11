@@ -1,2 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.krakedev.Calculadora"/>
+    <fullyQualifiedTypeName name="clearminds.cuentas.Cuenta"/>
+    <fullyQualifiedTypeName name="com.krakedev.demo.Producto"/>
+    <fullyQualifiedTypeName name="com.krakedev.controlflujo.Validador"/>
+    <fullyQualifiedTypeName name="com.cmc.repaso.entidades.Validacion"/>
+    <fullyQualifiedTypeName name="com.cmc.repaso.entidades.Estudiantes"/>
+    <fullyQualifiedTypeName name="com.cmc.repaso.entidades.Producto"/>
+    <fullyQualifiedTypeName name="com.cmc.repaso.entidades.Item"/>
+    <fullyQualifiedTypeName name="com.krakedev.composicion.Persona"/>
+    <fullyQualifiedTypeName name="com.krakedev.composicion.AdminProducto"/>
+    <fullyQualifiedTypeName name="com.krakedev.composicion.Producto"/>
+    <fullyQualifiedTypeName name="com.krakedev.composicion.Direccion"/>
+</qualifiedTypeNameHistroy>
