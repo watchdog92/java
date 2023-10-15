@@ -6,9 +6,15 @@
 		<item key="wholeword" value="false"/>
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
+		<item key="selection" value="mostrarProducto"/>
 		<list key="findhistory">
+			<item value="mostrarProducto"/>
+			<item value="mostrarProductos"/>
+			<item value="codigoCelda"/>
+			<item value="public int contarClaro(Telefono telf1,Telefono telf2,Telefono telf3,Telefono telf4) {"/>
 		</list>
 		<list key="replacehistory">
+			<item value="codigoProducto"/>
 		</list>
 	</section>
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">

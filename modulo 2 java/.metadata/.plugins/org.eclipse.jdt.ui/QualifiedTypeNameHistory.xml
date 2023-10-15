@@ -12,4 +12,10 @@
     <fullyQualifiedTypeName name="com.krakedev.composicion.AdminProducto"/>
     <fullyQualifiedTypeName name="com.krakedev.composicion.Producto"/>
     <fullyQualifiedTypeName name="com.krakedev.composicion.Direccion"/>
+    <fullyQualifiedTypeName name="com.cmc.directorio.entidades.AdminTelefono"/>
+    <fullyQualifiedTypeName name="com.cmc.directorio.entidades.Telefono"/>
+    <fullyQualifiedTypeName name="com.cmc.directorio.entidades.AdminContactos"/>
+    <fullyQualifiedTypeName name="com.cmc.directorio.entidades.Contacto"/>
+    <fullyQualifiedTypeName name="com.clearminds.componentes.Producto"/>
+    <fullyQualifiedTypeName name="com.clearminds.componentes.Celda"/>
 </qualifiedTypeNameHistroy>
